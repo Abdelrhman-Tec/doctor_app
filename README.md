@@ -1,3 +1,3 @@
 ## 🖼️ Screenshots
-<img src="assets/screenshots/Cover.png" alt="Search" width="600" />
+<img src="assets/screen_shots/banner_4.png" alt="banner Doctor App" />
 
